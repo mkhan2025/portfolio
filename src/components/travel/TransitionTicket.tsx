@@ -49,6 +49,3 @@ export const TransitionTicket: React.FC<TransitionTicketProps> = ({ nextStop }) 
     </motion.div>
   );
 };
-<｜tool▁call▁begin｜>
-read_lints
-
